@@ -53,6 +53,13 @@ Zaslon za dodajanje novih vozil je zelo podoben zaslonu za spreminjanje vozil. N
 ### 10. Zaslon - Moja sporočila
 Na zaslonu "My messages" lahko uporabnik vidi vsa sporočila, ki so mu jih poslali drugi uporabniki glede najema njegovega vozila. Poleg sporočila je zraven priložen podatek o spletnemu naslovu in pa (opcijski) telefonski številki uporabnika, da lahko nadaljujeta pogovor.
 
+## Swagger UI
+
+API Swagger je .NET spletna storitev ki uporablja POST in GET za sprejemanje in pošiljanje podatkov. Storitev podpira operacije CRUD in avtentikacijo/avtorizacijo zahtevkov. Spodaj so tabele.
+
+![swagger](https://github.com/user-attachments/assets/e28a908d-21a9-4ea7-9dcd-2d79eb2c1bf0)
+
+
 ## Mobilna aplikacija
 
 ### 1. Zaslon - Seznam vozil
@@ -79,5 +86,5 @@ Druge tabele:
 - **Messages:** Beleži podatke o vseh sporočilih med uporabniki.
 
 ## Avtorji
-- Avtor 1: [Egzon Haziri] (Vpisna številka): Podoba in funkcionalnost spletne in mobilne aplikacije
-- Avtor 2: [Luka Marinko] 63230204: Poročilo, filtri
+- Avtor 1: [Egzon Haziri] 63220096: Podoba in funkcionalnost spletne in mobilne aplikacije
+- Avtor 2: [Luka Marinko] 63230204: Poročilo
